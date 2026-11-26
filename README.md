@@ -1,2 +1,2 @@
-# CandeeelandInfoMap
-In collaboration with Malik B. Work on a map information guide with pictures and descriptions
+# CandeeLand Info Guide
+ **In collaboration with Malik B. Working on a map information guide with pictures and descriptions**
